@@ -1,0 +1,21 @@
+MEETING NOTES
+
+Date: September 15, 2026
+
+Participants:
+Alice Brown
+Bob Wilson
+Charlie Davis
+
+Topic:
+Project planning
+
+Discussion:
+The team discussed the next development milestone.
+The backend API should be completed by September 30, 2026.
+Testing will begin after the API implementation is completed.
+
+Action Items:
+Alice will prepare the API documentation.
+Bob will implement the authentication system.
+Charlie will prepare the testing plan.

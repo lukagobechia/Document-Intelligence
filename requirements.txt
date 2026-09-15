@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+python-multipart
+python-dotenv
+azure-ai-projects
+azure-identity
+openai
+pydantic
+pypdf

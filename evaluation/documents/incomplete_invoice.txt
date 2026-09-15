@@ -1,0 +1,16 @@
+INVOICE
+
+Invoice Number: INV-1003
+
+Company: Digital Services Ltd.
+
+Customer: Michael Johnson
+
+Invoice Date: September 14, 2026
+
+Description:
+Consulting services
+
+Total: $750
+
+Payment Status: Unpaid

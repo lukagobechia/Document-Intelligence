@@ -1,0 +1,15 @@
+INVOICE
+
+Invoice Number: INV-1001
+
+Company: Tech Solutions Ltd.
+Customer: Alice Brown
+
+Invoice Date: September 10, 2026
+
+Description:
+Software development services
+
+Total: $2,000
+
+Payment Status: Paid
